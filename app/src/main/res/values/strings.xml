@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IceWarpDemoApp</string>
+    <string name="title_activity_channels_screen">ChannelsScreen</string>
+</resources>
