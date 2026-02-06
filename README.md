@@ -7,7 +7,7 @@ User login with IceWarp credentials
 Persistent login until explicit logout
 Channels list fetched using authenticated token
 Loading and error state handling
-Local data persistence using SQLDelight
+Local data persistence using Sharepreference
 
 Tech Stack
 
@@ -16,7 +16,7 @@ UI: Jetpack Compose
 Networking: Retrofit
 Asynchronous:RxJava (Login API)
 Kotlin Coroutines (Channels API)
-Database: SQLDelight
+Database: Sharepreference
 
 App Flow
 🔐 Login Screen
